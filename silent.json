@@ -42,7 +42,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/assets\/audio\/roar.mp3"
+                 "value":"assetssoundsroar.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
