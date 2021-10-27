@@ -57,7 +57,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/owasp.org\/www-chapter-guatemala\/migrated_content"
+                         "value":"https:\/\/owasp.org\/www-chapter-guatemala\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
