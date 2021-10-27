@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"sc1.json"
+                 "value":"standsconference1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,10 +48,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"silent.json"
+                 "value":"silenceroom"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Game-and-meeting-room.json"
+                 "value":"gameandmeetingroom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -84,10 +84,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"sc2.json"
+                 "value":"standsconference2"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -99,7 +99,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -117,7 +117,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/a1Nsvs9X-lU"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -129,7 +129,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -141,7 +141,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -1855,7 +1855,7 @@
          "columns":24,
          "firstgid":7947,
          "image":"assets\/image\/Letreros-lobby.png",
-         "imageheight":264,
+         "imageheight":221,
          "imagewidth":792,
          "margin":0,
          "name":"Letreros-lobby",
