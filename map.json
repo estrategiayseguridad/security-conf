@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/es-recognition-bucket.s3.us-east-2.amazonaws.com\/conference\/Agenda+l+Jueves+28+de+octubre+.pdf"
+                 "value":"https:\/\/www.youtube.com\/embed\/2euZzQ1wFgk"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -185,7 +185,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/a1Nsvs9X-lU"
+                 "value":"https:\/\/www.youtube.com\/embed\/2euZzQ1wFgk"
                 }],
          "type":"tilelayer",
          "visible":true,
